@@ -11,7 +11,6 @@ Built as part of my MSc in DevOps to evaluate IaC tooling choices for multi-envi
 
 ## Architecture
 
-The diagram below shows [describe what the diagram actually depicts — 
-the infrastructure being provisioned, the environments compared, etc.]
+The diagram below shows high level architecture of the AWS services.
 
 <img width="1344" height="768" alt="AWS_arc3" src="https://github.com/user-attachments/assets/00e8e0e4-af5b-4069-94b9-925ca081f521" />
